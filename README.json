@@ -1,38 +1,7 @@
 {
-  "items": [
-    {
-      "description": "This study is a collaboration between Michael Schmitt, Ronny Hänsch and me.",
-      "items": [],
-      "title": "Contributors"
-    },
-    {
-      "description": "181 benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.\n(For the high resolution scatter image please refer to the paper.)\nAlso, the following drawing simplifies the concept behind our \"Size Measure\" and \"Volume Measure\".",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "UPDATE (09 August 2023): Our review paper with a team of scientists around the world is published in IEEE GRSM. You can find it in this link. You can find more information at our IGARSS-2021 paper.\n⭐⭐⭐ Our new paper which is an extended version of the above paper is published as a review paper in IEEE Geoscience and Remote Sensing Magazine (GRSM). You can find it in this link.⭐⭐⭐\nNOTICE: You can find each dataset's link on the most right column. Scroll the table to right! NOTICE: Finish the table. You'll find more AWESOME stuff!",
-      "items": [],
-      "title": "Paper"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets table"
-    },
-    {
-      "description": "Any contribution in expanding this list are welcomed. You can introduce your own benchmark datasets, or other published ones to be added to this list.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "In case you use this information in your studies, please consider citing\nHere I acknowledge some useful lists and pages which can enrich your mind about Earth Observation and make us closer.\n🛰️ List of satellite image training datasets with annotations for computer vision and deep learning\n:star2: WOW! Take a look at Robin's awesome page. Almost everything for deep learning in remote sensing.\nA curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!\nA curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.\nRemote Sensing is very exciting.\nLong list of geospatial analysis tools.\nList of 500+ geospatial companies & interactive map.\nList of datasets, codes, and contests related to remote sensing change detection.\nZhang Bin's list of data.\nThe Top 112 Super Resolution Open Source Projects.\nSuper Resolution Methods 1, 2, 3, 4, 5\nKaggle datasets",
-      "items": [],
-      "title": "Citation"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:39.124Z",
+    "last_updated": "2026-08-19T07:22:20.627Z",
     "original_repository": "Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets",
     "original_repository_sha": "8e3c77ddf5312684db58ee9e090dfc4f70568e3a",
     "enhanced_repository": "enhansome/enhansome-Awesome_Satellite_Benchmark_Datasets",
