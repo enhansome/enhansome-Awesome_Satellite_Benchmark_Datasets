@@ -45,7 +45,7 @@ You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2
 | ![pools](https://user-images.githubusercontent.com/53389122/125169826-2b84e700-e1c1-11eb-9dbf-7c7478bd2cfc.jpeg)                | BH-Pools + BH-WaterTanks                                                       | 2020                | 350              | 3000           | 3150000000   | SemSeg       | 1                 | 1900        | <http://www.patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/>                                                                |
 | ![AiRound](https://user-images.githubusercontent.com/53389122/127604930-8aec75d0-7b63-466b-ba8a-a289cb920a30.jpg)               | AiRound                                                                        | 2020                | 11753            | 300            | 1057770000   | Class        | 11                | 33000       | <http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/>                                                                         |
 | ![CV-BrCT](https://user-images.githubusercontent.com/53389122/127604944-648db894-7535-445a-a3e7-0b5623b43ce7.gif)               | CV-BrCT (Cross-View Brazilian Construction Type)                               | 2020                | 24000            | 500            | 6000000000   | Class        | 9                 | 9200        | <http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/>                                                                         |
-| ![EuroSAT](https://user-images.githubusercontent.com/53389122/127604962-5755ea9d-d039-439e-934a-a9e3f264d157.jpg)               | EuroSAT                                                                        | 2018                | 27000            | 64             | 110592000    | Class        | 10                | 1920        | <https://github.com/phelber/EuroSAT#> ⭐ 569 \| 🐛 0 \| 📅 2023-03-09                                                                    |
+| ![EuroSAT](https://user-images.githubusercontent.com/53389122/127604962-5755ea9d-d039-439e-934a-a9e3f264d157.jpg)               | EuroSAT                                                                        | 2018                | 27000            | 64             | 110592000    | Class        | 10                | 1920        | <https://github.com/phelber/EuroSAT#> ⭐ 570 \| 🐛 0 \| 📅 2023-03-09                                                                    |
 | ![resisc45-3 0 0](https://user-images.githubusercontent.com/53389122/127605075-ad46c958-b924-4fe0-a89d-179b34a8de07.png)        | NWPU-RESISC45                                                                  | 2016                | 31500            | 256            | 2064384000   | Class        | 45                | 404.7       | <https://github.com/tensorflow/datasets/blob/master/docs/catalog/resisc45.md> ⭐ 4,580 \| 🐛 689 \| 🌐 Python \| 📅 2026-08-19           |
 |                                                                                                                                 | NWPU-VHR10                                                                     | 2014                | 800              | 1000           | 800000000    | OD           | 10                | 73          | <https://github.com/chaozhong2010/VHR-10_dataset_coco> ⭐ 141 \| 🐛 5 \| 🌐 Python \| 📅 2020-03-20                                      |
 |                                                                                                                                 | SSDD (RadarSat-2, TerraSAR-X, S-1)                                             | 2017                | 1160             | 500            | 290000000    | OD           | 1                 |             |                                                                                                                                         |
@@ -237,7 +237,7 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 🛰️ List of [satellite image training datasets](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) with annotations for computer vision and deep learning
 
-:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,233 | 🐛 0 | 📅 2026-08-02.
+:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,234 | 🐛 0 | 📅 2026-08-02.
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,378 | 🐛 6 | 🌐 HTML | 📅 2026-05-13!
 
@@ -245,11 +245,11 @@ A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerk
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 114 | 🐛 2 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,261 | 🐛 1 | 📅 2026-08-19.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,266 | 🐛 0 | 📅 2026-08-20.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 885 | 🐛 4 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,303 | 🐛 2 | 📅 2026-04-16.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,305 | 🐛 2 | 📅 2026-04-16.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
