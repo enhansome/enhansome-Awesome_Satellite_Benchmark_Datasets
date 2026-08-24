@@ -1,7 +1,327 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "181 benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.\n(For the high resolution scatter image please refer to the paper.)\nAlso, the following drawing simplifies the concept behind our \"Size Measure\" and \"Volume Measure\".",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/phelber/EuroSAT#",
+              "description": "EuroSAT 2018 27000 64 110592000 Class 10 1920 https://github.com/phelber/EuroSAT#",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162766976,
+                "language": null,
+                "last_commit": "2023-03-09T11:53:50Z",
+                "owner": "phelber",
+                "repo": "EuroSAT",
+                "stars": 570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tensorflow/datasets/blob/master/docs/catalog/resisc45.md",
+              "description": "NWPU-RESISC45 2016 31500 256 2064384000 Class 45 404.7 https://github.com/tensorflow/datasets/blob/master/docs/catalog/resisc45.md",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148221325,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:29:09Z",
+                "owner": "tensorflow",
+                "repo": "datasets",
+                "stars": 4580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chaozhong2010/VHR-10_dataset_coco",
+              "description": "NWPU-VHR10 2014 800 1000 800000000 OD 10 73 https://github.com/chaozhong2010/VHR-10_dataset_coco",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197340648,
+                "language": "Python",
+                "last_commit": "2020-03-20T14:57:30Z",
+                "owner": "chaozhong2010",
+                "repo": "VHR-10_dataset_coco",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/DYH666/DSCR",
+              "description": "Dataset for Ship Classification (DSCR) 2019 1951 Class https://github.com/DYH666/DSCR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201912568,
+                "language": "Python",
+                "last_commit": "2019-08-13T12:42:22Z",
+                "owner": "DYH666",
+                "repo": "DSCR",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/CAESAR-Radi/SAR-Ship-Dataset",
+              "description": "SAR Ship Detection (GF-2, S-1) 2019 43819 256 2871721984 OD 1 407 https://github.com/CAESAR-Radi/SAR-Ship-Dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173522239,
+                "language": null,
+                "last_commit": "2024-12-25T13:15:06Z",
+                "owner": "CAESAR-Radi",
+                "repo": "SAR-Ship-Dataset",
+                "stars": 454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN",
+              "description": "LS-SSDD (Large Scale) 2020 15 20000 5760000000 OD 1 7800 https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293196026,
+                "language": null,
+                "last_commit": "2025-11-21T09:55:58Z",
+                "owner": "TianwenZhang0825",
+                "repo": "LS-SSDD-v1.0-OPEN",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chaozhong2010/HRSID",
+              "description": "HRSID (Ship Detection, S-1, TerraSAR-X) 2020 5604 800 3586560000 OD 1 581 https://github.com/chaozhong2010/HRSID",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223717848,
+                "language": null,
+                "last_commit": "2020-07-03T05:52:33Z",
+                "owner": "chaozhong2010",
+                "repo": "HRSID",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-",
+              "description": "Remote Sensing Object Detection (RSOD) 2017 946 1000 946000000 OD 4 309 https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88589156,
+                "language": null,
+                "last_commit": "2019-04-30T08:04:48Z",
+                "owner": "RSIA-LIESMARS-WHU",
+                "repo": "RSOD-Dataset-",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fMoW/dataset",
+              "description": "Functional Map of the World 2018 523846 1.084E+12 Class 63 3500000 https://github.com/fMoW/dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109067563,
+                "language": null,
+                "last_commit": "2024-06-30T04:37:38Z",
+                "owner": "fMoW",
+                "repo": "dataset",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/gistairc/ABCDdataset",
+              "description": "AIST Building Change Detection 2017 16950 160 356100096 CD 1 18200 https://github.com/gistairc/ABCDdataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109223032,
+                "language": null,
+                "last_commit": "2017-11-02T05:54:06Z",
+                "owner": "gistairc",
+                "repo": "ABCDdataset",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ndrplz/surround_vehicles_awareness",
+              "description": "GTA Birds Eye View (Surrounding Vehicle Awareness) 2017 1000000 1920 1920000000 Other 350000 https://github.com/ndrplz/surround_vehicles_awareness",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88993493,
+                "language": "Python",
+                "last_commit": "2020-02-12T02:00:38Z",
+                "owner": "ndrplz",
+                "repo": "surround_vehicles_awareness",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/reveondivad/ov-mnist",
+              "description": "OVERHEAD MNIST 2020 1000 28 784000 Class 9 17.50 https://github.com/reveondivad/ov-mnist",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330695389,
+                "language": null,
+                "last_commit": "2021-01-18T14:49:18Z",
+                "owner": "reveondivad",
+                "repo": "ov-mnist",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/achrafdjerida/Alsat-2B",
+              "description": "ALSAT-2B 2021 5518 256 192114688 SR 70 https://github.com/achrafdjerida/Alsat-2B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325760180,
+                "language": null,
+                "last_commit": "2022-01-26T14:13:51Z",
+                "owner": "achrafdjerida",
+                "repo": "Alsat-2B",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yaoxu008/QXS-SAROPT",
+              "description": "QXS-SAROPT 2021 40000 256 2621440000 Other 2700 https://github.com/yaoxu008/QXS-SAROPT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347594932,
+                "language": null,
+                "last_commit": "2021-07-30T15:08:05Z",
+                "owner": "yaoxu008",
+                "repo": "QXS-SAROPT",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/rmkemker/RIT-18",
+              "description": "RIT-18 2018 1 9300 52080000 SemSeg 1500 https://github.com/rmkemker/RIT-18",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91008600,
+                "language": "Python",
+                "last_commit": "2022-10-22T00:16:20Z",
+                "owner": "rmkemker",
+                "repo": "RIT-18",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jiupinjia/gtav-sattellite-imagery-dataset",
+              "description": "GTA-V SID 2020 121 500 30250000 SemSeg 100 https://github.com/jiupinjia/gtav-sattellite-imagery-dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233648250,
+                "language": null,
+                "last_commit": "2020-02-17T22:29:09Z",
+                "owner": "jiupinjia",
+                "repo": "gtav-sattellite-imagery-dataset",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/r3ab/ttpla_dataset",
+              "description": "transmission towers and power lines (TTPLA) 2020 1100 3840 9123840000 SemSeg 4200 https://github.com/r3ab/ttpla_dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299777937,
+                "language": "Python",
+                "last_commit": "2023-01-07T17:30:46Z",
+                "owner": "R3ab",
+                "repo": "ttpla_dataset",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Neooolee/WHUS2-CD",
+              "description": "Sentinel-2 Cloud Detection (WHUS2-CD+) 2021 36 10980 4340174000 CD 27800 https://github.com/Neooolee/WHUS2-CD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294934547,
+                "language": "Python",
+                "last_commit": "2022-10-19T07:49:57Z",
+                "owner": "Neooolee",
+                "repo": "WHUS2-CD",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets table"
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Here I acknowledge some useful lists and pages which can enrich your mind about Earth Observation and make us closer.\n🛰️ List of satellite image training datasets with annotations for computer vision and deep learning\n:star2: WOW! Take a look at Robin's awesome page. Almost everything for deep learning in remote sensing.\nA curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!\nA curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.\nLong list of geospatial analysis tools.\nList of datasets, codes, and contests related to remote sensing change detection.\nZhang Bin's list of data.\nThe Top 112 Super Resolution Open Source Projects.\nSuper Resolution Methods 1, 2, 3, 4, 5\nKaggle datasets",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Remote Sensing",
+          "description": "is very exciting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73199834,
+            "language": null,
+            "last_commit": "2026-01-18T16:06:11Z",
+            "owner": "attibalazs",
+            "repo": "awesome-remote-sensing",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List",
+          "description": "of 500+ geospatial companies & interactive map.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272108471,
+            "language": "Python",
+            "last_commit": "2026-07-09T02:14:59Z",
+            "owner": "chrieke",
+            "repo": "awesome-geospatial-companies",
+            "stars": 887
+          }
+        }
+      ],
+      "title": "References and related links (Awesome of Awesomes)"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T07:40:29.320Z",
+    "last_updated": "2026-08-24T14:29:29.391Z",
     "original_repository": "Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets",
     "original_repository_id": 382672106,
     "original_repository_sha": "8e3c77ddf5312684db58ee9e090dfc4f70568e3a",
