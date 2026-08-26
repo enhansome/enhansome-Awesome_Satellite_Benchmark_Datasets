@@ -17,7 +17,7 @@
                 "last_commit": "2023-03-09T11:53:50Z",
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 570
+                "stars": 572
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-06-30T04:37:38Z",
                 "owner": "fMoW",
                 "repo": "dataset",
-                "stars": 245
+                "stars": 246
               }
             },
             {
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:27:07.284Z",
+    "last_updated": "2026-08-26T07:28:14.616Z",
     "original_repository": "Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets",
     "original_repository_id": 382672106,
     "original_repository_sha": "8e3c77ddf5312684db58ee9e090dfc4f70568e3a",
