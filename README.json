@@ -17,7 +17,7 @@
                 "last_commit": "2023-03-09T11:53:50Z",
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 572
+                "stars": 573
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T16:29:09Z",
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4580
+                "stars": 4581
               }
             },
             {
@@ -321,9 +321,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:14.616Z",
-    "original_repository": "Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets",
-    "original_repository_id": 382672106,
+    "last_updated": "2026-08-27T11:25:45.260Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 382672106,
+      "language": "Jupyter Notebook",
+      "last_commit": "2024-03-30T11:20:21Z",
+      "owner": "Seyed-Ali-Ahmadi",
+      "repo": "Awesome_Satellite_Benchmark_Datasets",
+      "stars": 364
+    },
     "original_repository_sha": "8e3c77ddf5312684db58ee9e090dfc4f70568e3a",
     "enhanced_repository": "enhansome/enhansome-Awesome_Satellite_Benchmark_Datasets",
     "enhanced_repository_description": null,
