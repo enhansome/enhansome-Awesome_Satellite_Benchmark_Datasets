@@ -18,7 +18,8 @@
                 "owner": "phelber",
                 "repo": "EuroSAT",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "tensorflow",
                 "repo": "datasets",
                 "stars": 4581
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "chaozhong2010",
                 "repo": "VHR-10_dataset_coco",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "DYH666",
                 "repo": "DSCR",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "CAESAR-Radi",
                 "repo": "SAR-Ship-Dataset",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "TianwenZhang0825",
                 "repo": "LS-SSDD-v1.0-OPEN",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "chaozhong2010",
                 "repo": "HRSID",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "RSIA-LIESMARS-WHU",
                 "repo": "RSOD-Dataset-",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "fMoW",
                 "repo": "dataset",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "gistairc",
                 "repo": "ABCDdataset",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "ndrplz",
                 "repo": "surround_vehicles_awareness",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "reveondivad",
                 "repo": "ov-mnist",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "achrafdjerida",
                 "repo": "Alsat-2B",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -212,8 +225,9 @@
                 "last_commit": "2021-07-30T15:08:05Z",
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 157
-              }
+                "stars": 156
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "rmkemker",
                 "repo": "RIT-18",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "jiupinjia",
                 "repo": "gtav-sattellite-imagery-dataset",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "R3ab",
                 "repo": "ttpla_dataset",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "Neooolee",
                 "repo": "WHUS2-CD",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:57:51.620Z"
             }
           ],
           "description": null,
@@ -299,7 +317,8 @@
             "owner": "attibalazs",
             "repo": "awesome-remote-sensing",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T18:57:51.620Z"
         },
         {
           "node_type": "item",
@@ -314,14 +333,15 @@
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-28T18:57:51.620Z"
         }
       ],
       "title": "References and related links (Awesome of Awesomes)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:10.739Z",
+    "last_updated": "2026-08-28T18:57:51.620Z",
     "original_repository_info": {
       "archived": false,
       "id": 382672106,
