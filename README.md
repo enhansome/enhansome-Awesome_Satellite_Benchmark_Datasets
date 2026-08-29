@@ -249,7 +249,7 @@ Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Ge
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 888 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,313 | 🐛 2 | 📅 2026-04-16.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,312 | 🐛 2 | 📅 2026-04-16.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
