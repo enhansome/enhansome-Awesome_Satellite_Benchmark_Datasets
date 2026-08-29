@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EuroSAT: Land Use and Land Cover Classification with Sentinel-2",
+                "homepage": null,
                 "id": 162766976,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-03-09T11:53:50Z",
+                "open_issues": 0,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -28,12 +33,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...",
+                "homepage": "https://www.tensorflow.org/datasets",
                 "id": 148221325,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T16:29:09Z",
+                "open_issues": 689,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4581
+                "stars": 4581,
+                "topics": [
+                  "data",
+                  "dataset",
+                  "datasets",
+                  "jax",
+                  "machine-learning",
+                  "numpy",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -44,12 +62,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object detection and instance segmentation dataset for VHR remote sensing images further marked on the NWPU VHR-10 dataset and SSDD dataset according to the standard coco dataset.",
+                "homepage": null,
                 "id": 197340648,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-20T14:57:30Z",
+                "open_issues": 5,
                 "owner": "chaozhong2010",
                 "repo": "VHR-10_dataset_coco",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -60,12 +83,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSCR Dataset and the benchmark algorithms",
+                "homepage": null,
                 "id": 201912568,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-13T12:42:22Z",
+                "open_issues": 0,
                 "owner": "DYH666",
                 "repo": "DSCR",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -76,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 173522239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-25T13:15:06Z",
+                "open_issues": 61,
                 "owner": "CAESAR-Radi",
                 "repo": "SAR-Ship-Dataset",
-                "stars": 454
+                "stars": 454,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -92,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Large-Scale SAR Ship Detection Dataset-v1.0 (LS-SSDD-v1.0) from Sentinel-1, for small ship detec-tion under large-scale backgrounds. LS-SSDD-v1.0 contains 15 large-scale SAR images whose ground truths are correctly labeled by SAR experts by drawing support from Automatic Identifica-tion System (AIS) and Google Earth. To facilitate network training, the large-scale images are directly cut into 9,000 sub-images without bells and whistles, providing convenience for subsequent detec-tion result presentation in large-scale SAR images. ",
+                "homepage": null,
                 "id": 293196026,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-21T09:55:58Z",
+                "open_issues": 5,
                 "owner": "TianwenZhang0825",
                 "repo": "LS-SSDD-v1.0-OPEN",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -108,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HRSID: high resolution sar images dataset for ship detection, semantic segmentation, and instance segmentation tasks.",
+                "homepage": null,
                 "id": 223717848,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2020-07-03T05:52:33Z",
+                "open_issues": 5,
                 "owner": "chaozhong2010",
                 "repo": "HRSID",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -124,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open dataset for object detection in remote sensing images",
+                "homepage": null,
                 "id": 88589156,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-04-30T08:04:48Z",
+                "open_issues": 3,
                 "owner": "RSIA-LIESMARS-WHU",
                 "repo": "RSOD-Dataset-",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -140,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 109067563,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-30T04:37:38Z",
+                "open_issues": 4,
                 "owner": "fMoW",
                 "repo": "dataset",
-                "stars": 246
+                "stars": 246,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -156,12 +209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 109223032,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2017-11-02T05:54:06Z",
+                "open_issues": 1,
                 "owner": "gistairc",
                 "repo": "ABCDdataset",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -172,12 +230,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn to map surrounding vehicles onto a bird's eye view of the scene.",
+                "homepage": null,
                 "id": 88993493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-02-12T02:00:38Z",
+                "open_issues": 3,
                 "owner": "ndrplz",
                 "repo": "surround_vehicles_awareness",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "adas",
+                  "bird-eye",
+                  "deep-learning",
+                  "self-driving-car",
+                  "synthetic-data"
+                ]
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -188,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330695389,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-18T14:49:18Z",
+                "open_issues": 0,
                 "owner": "reveondivad",
                 "repo": "ov-mnist",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -204,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super-Resolution",
+                "homepage": null,
                 "id": 325760180,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-26T14:13:51Z",
+                "open_issues": 0,
                 "owner": "achrafdjerida",
                 "repo": "Alsat-2B",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -220,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optical and SAR pairing dataset",
+                "homepage": null,
                 "id": 347594932,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-07-30T15:08:05Z",
+                "open_issues": 11,
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -236,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-Resolution Multispectral Dataset for Semantic Segmentation",
+                "homepage": null,
                 "id": 91008600,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-22T00:16:20Z",
+                "open_issues": 5,
                 "owner": "rmkemker",
                 "repo": "RIT-18",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -252,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A synthetic satellite imagery dataset for semantic segmentation and domain adaptation.",
+                "homepage": null,
                 "id": 233648250,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-02-17T22:29:09Z",
+                "open_issues": 0,
                 "owner": "jiupinjia",
                 "repo": "gtav-sattellite-imagery-dataset",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -268,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " aerial images dataset on transmission towers and power lines",
+                "homepage": null,
                 "id": 299777937,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-07T17:30:46Z",
+                "open_issues": 9,
                 "owner": "R3ab",
                 "repo": "ttpla_dataset",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             },
@@ -284,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a cloud detection  validation dataset for Sentinel-2A images",
+                "homepage": null,
                 "id": 294934547,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-19T07:49:57Z",
+                "open_issues": 5,
                 "owner": "Neooolee",
                 "repo": "WHUS2-CD",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
             }
@@ -311,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Remote Sensing Resources",
+            "homepage": null,
             "id": 73199834,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-18T16:06:11Z",
+            "open_issues": 3,
             "owner": "attibalazs",
             "repo": "awesome-remote-sensing",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:51.620Z"
         },
@@ -327,12 +436,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":globe_with_meridians: List & Map of 800+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)",
+            "homepage": null,
             "id": 272108471,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T02:14:59Z",
+            "open_issues": 5,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "companies",
+              "earth-observation",
+              "farming",
+              "geospatial",
+              "gis",
+              "jobs",
+              "map",
+              "remote-sensing",
+              "satellite",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T18:57:51.620Z"
         }
@@ -341,15 +466,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:51.620Z",
+    "last_updated": "2026-08-29T04:45:38.608Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
+      "homepage": null,
       "id": 382672106,
       "language": "Jupyter Notebook",
+      "license": null,
       "last_commit": "2024-03-30T11:20:21Z",
+      "open_issues": 1,
       "owner": "Seyed-Ali-Ahmadi",
       "repo": "Awesome_Satellite_Benchmark_Datasets",
-      "stars": 364
+      "stars": 364,
+      "topics": [
+        "awesome-list",
+        "benchmark",
+        "benchmark-datasets",
+        "dataset",
+        "deep-learning",
+        "earth-observation",
+        "machine-learning",
+        "remote-sensing",
+        "satellite-imagery"
+      ]
     },
     "original_repository_sha": "8e3c77ddf5312684db58ee9e090dfc4f70568e3a",
     "enhanced_repository": "enhansome/enhansome-Awesome_Satellite_Benchmark_Datasets",
