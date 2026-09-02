@@ -176,7 +176,7 @@
                 "open_issues": 3,
                 "owner": "RSIA-LIESMARS-WHU",
                 "repo": "RSOD-Dataset-",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -445,7 +445,7 @@
             "open_issues": 5,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "companies",
               "earth-observation",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:57:12.068Z",
+    "last_updated": "2026-09-02T11:39:25.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",

@@ -56,7 +56,7 @@ You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2
 |                                                                                                                                 | HRSID (Ship Detection, S-1, TerraSAR-X)                                        | 2020                | 5604             | 800            | 3586560000   | OD           | 1                 | 581         | <https://github.com/chaozhong2010/HRSID> ⭐ 302 \| 🐛 5 \| 📅 2020-07-03                                                                 |
 |                                                                                                                                 | High Resolution Semantic Change Detection (HRSCD)                              | 2019                | 582              | 10000          | 58200000000  | CD           |                   | 5000        | <https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset> ; <https://rcdaudt.github.io/hrscd/>    |
 |                                                                                                                                 | HRSC2016 (Ship Detection)                                                      | 2017                | 1061             | 1100           | 816970000    | OD           | 26                |             | <http://www.escience.cn/people/liuzikun/DataSet.html%E2%80%9D>                                                                          |
-|                                                                                                                                 | Remote Sensing Object Detection (RSOD)                                         | 2017                | 946              | 1000           | 946000000    | OD           | 4                 | 309         | <https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-> ⭐ 217 \| 🐛 3 \| 📅 2019-04-30                                                     |
+|                                                                                                                                 | Remote Sensing Object Detection (RSOD)                                         | 2017                | 946              | 1000           | 946000000    | OD           | 4                 | 309         | <https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-> ⭐ 218 \| 🐛 3 \| 📅 2019-04-30                                                     |
 |                                                                                                                                 | PatternNet                                                                     | 2018                | 30400            | 256            | 1992294400   | Class        | 38                | 1300        | <https://sites.google.com/view/zhouwx/dataset>                                                                                          |
 |                                                                                                                                 | Bijie Landslide                                                                | 2020                | 2773             | 200            | 110920000    | Class        | 1                 | 513         | <http://gpcv.whu.edu.cn/data/Bijie_pages.html>                                                                                          |
 |                                                                                                                                 | RSC11                                                                          | 2016                | 1232             | 512            | 322961408    | Class        | 11                |             |                                                                                                                                         |
@@ -237,19 +237,19 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 🛰️ List of [satellite image training datasets](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) with annotations for computer vision and deep learning
 
-:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,240 | 🐛 1 | 📅 2026-08-02.
+:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,241 | 🐛 1 | 📅 2026-08-02.
 
-A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,380 | 🐛 6 | 🌐 HTML | 📅 2026-05-13!
+A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,380 | 🐛 7 | 🌐 HTML | 📅 2026-05-13!
 
 A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 583 | 🐛 3 | 📅 2025-02-20 related to data from the Copernicus Sentinel Satellites.
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 114 | 🐛 3 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,274 | 🐛 1 | 📅 2026-09-01.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,276 | 🐛 1 | 📅 2026-09-01.
 
-[List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 888 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
+[List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 889 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,314 | 🐛 2 | 📅 2026-04-16.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,315 | 🐛 2 | 📅 2026-04-16.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
