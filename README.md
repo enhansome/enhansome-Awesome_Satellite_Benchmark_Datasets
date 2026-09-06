@@ -245,7 +245,7 @@ A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerk
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 114 | 🐛 3 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,277 | 🐛 3 | 📅 2026-09-03.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,278 | 🐛 4 | 📅 2026-09-03.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 889 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
