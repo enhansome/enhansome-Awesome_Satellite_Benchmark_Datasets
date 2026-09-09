@@ -245,20 +245,20 @@ A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerk
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 114 | 🐛 3 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,278 | 🐛 3 | 📅 2026-09-08.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,279 | 🐛 1 | 📅 2026-09-09.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 889 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,323 | 🐛 2 | 📅 2026-04-16.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,324 | 🐛 2 | 📅 2026-09-09.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
 The Top 112 [Super Resolution](https://awesomeopensource.com/projects/super-resolution) Open Source Projects.
 
-Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution) ⭐ 23 | 🐛 0 | 📅 2019-07-19, [2](https://github.com/idealo/image-super-resolution) ⚠️ Archived, [3](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,096 | 🐛 5 | 📅 2026-08-19, [4](https://github.com/ptkin/Awesome-Super-Resolution) ⭐ 385 | 🐛 1 | 🌐 HTML | 📅 2019-09-10, [5](https://github.com/MIVRC/Image-Super-Resolution-Guide) ⭐ 13 | 🐛 0 | 📅 2019-09-23
+Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution) ⭐ 23 | 🐛 0 | 📅 2019-07-19, [2](https://github.com/idealo/image-super-resolution) ⚠️ Archived, [3](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,097 | 🐛 5 | 📅 2026-08-19, [4](https://github.com/ptkin/Awesome-Super-Resolution) ⭐ 385 | 🐛 1 | 🌐 HTML | 📅 2019-09-10, [5](https://github.com/MIVRC/Image-Super-Resolution-Guide) ⭐ 13 | 🐛 0 | 📅 2019-09-23
 
 [Kaggle datasets](https://www.kaggle.com/datasets)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
