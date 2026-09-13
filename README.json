@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 575,
+                "stars": 576,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -71,7 +71,7 @@
                 "open_issues": 5,
                 "owner": "chaozhong2010",
                 "repo": "VHR-10_dataset_coco",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:11:06.707Z",
+    "last_updated": "2026-09-13T12:14:53.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
