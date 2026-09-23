@@ -197,7 +197,7 @@
                 "open_issues": 4,
                 "owner": "fMoW",
                 "repo": "dataset",
-                "stars": 246,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -239,7 +239,7 @@
                 "open_issues": 3,
                 "owner": "ndrplz",
                 "repo": "surround_vehicles_awareness",
-                "stars": 216,
+                "stars": 217,
                 "topics": [
                   "adas",
                   "bird-eye",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:00:01.598Z",
+    "last_updated": "2026-09-23T12:01:25.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
