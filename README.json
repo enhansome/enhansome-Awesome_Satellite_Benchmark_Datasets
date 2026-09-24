@@ -445,7 +445,7 @@
             "open_issues": 5,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "companies",
               "earth-observation",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:01:25.858Z",
+    "last_updated": "2026-09-24T12:07:28.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",

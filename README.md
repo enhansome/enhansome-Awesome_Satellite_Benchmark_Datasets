@@ -239,26 +239,26 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 :star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,269 | 🐛 0 | 📅 2026-09-19.
 
-A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,383 | 🐛 9 | 🌐 HTML | 📅 2026-05-13!
+A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,384 | 🐛 9 | 🌐 HTML | 📅 2026-05-13!
 
 A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 584 | 🐛 4 | 📅 2025-02-20 related to data from the Copernicus Sentinel Satellites.
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 114 | 🐛 3 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,297 | 🐛 4 | 📅 2026-09-22.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,297 | 🐛 4 | 📅 2026-09-23.
 
-[List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 892 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
+[List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 893 | 🐛 5 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,342 | 🐛 2 | 📅 2026-09-09.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,343 | 🐛 2 | 📅 2026-09-09.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
 The Top 112 [Super Resolution](https://awesomeopensource.com/projects/super-resolution) Open Source Projects.
 
-Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution) ⭐ 23 | 🐛 0 | 📅 2019-07-19, [2](https://github.com/idealo/image-super-resolution) ⚠️ Archived, [3](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,098 | 🐛 5 | 📅 2026-08-19, [4](https://github.com/ptkin/Awesome-Super-Resolution) ⭐ 385 | 🐛 1 | 🌐 HTML | 📅 2019-09-10, [5](https://github.com/MIVRC/Image-Super-Resolution-Guide) ⭐ 13 | 🐛 0 | 📅 2019-09-23
+Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution) ⭐ 23 | 🐛 0 | 📅 2019-07-19, [2](https://github.com/idealo/image-super-resolution) ⚠️ Archived, [3](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,098 | 🐛 5 | 📅 2026-08-19, [4](https://github.com/ptkin/Awesome-Super-Resolution) ⭐ 386 | 🐛 2 | 🌐 HTML | 📅 2019-09-10, [5](https://github.com/MIVRC/Image-Super-Resolution-Guide) ⭐ 13 | 🐛 0 | 📅 2019-09-23
 
 [Kaggle datasets](https://www.kaggle.com/datasets)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
