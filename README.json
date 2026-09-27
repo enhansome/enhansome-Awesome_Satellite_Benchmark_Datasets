@@ -42,7 +42,7 @@
                 "open_issues": 690,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4592,
+                "stars": 4593,
                 "topics": [
                   "data",
                   "dataset",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:42:53.516Z",
+    "last_updated": "2026-09-27T12:22:17.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
