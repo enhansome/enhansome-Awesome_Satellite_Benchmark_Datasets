@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 582,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -38,8 +38,8 @@
                 "id": 148221325,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:05:15Z",
-                "open_issues": 689,
+                "last_commit": "2026-10-07T10:32:26Z",
+                "open_issues": 691,
                 "owner": "tensorflow",
                 "repo": "datasets",
                 "stars": 4597,
@@ -197,7 +197,7 @@
                 "open_issues": 4,
                 "owner": "fMoW",
                 "repo": "dataset",
-                "stars": 248,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:32:57.950Z",
+    "last_updated": "2026-10-07T13:47:21.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
