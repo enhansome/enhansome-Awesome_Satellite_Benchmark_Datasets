@@ -176,7 +176,7 @@
                 "open_issues": 3,
                 "owner": "RSIA-LIESMARS-WHU",
                 "repo": "RSOD-Dataset-",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -197,7 +197,7 @@
                 "open_issues": 4,
                 "owner": "fMoW",
                 "repo": "dataset",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -308,7 +308,7 @@
                 "open_issues": 11,
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -371,7 +371,7 @@
                 "open_issues": 9,
                 "owner": "R3ab",
                 "repo": "ttpla_dataset",
-                "stars": 197,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:47:21.436Z",
+    "last_updated": "2026-10-08T13:55:04.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
