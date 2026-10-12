@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 584,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T10:32:26Z",
-                "open_issues": 691,
+                "open_issues": 692,
                 "owner": "tensorflow",
                 "repo": "datasets",
                 "stars": 4599,
@@ -215,7 +215,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2017-11-02T05:54:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gistairc",
                 "repo": "ABCDdataset",
                 "stars": 77,
@@ -445,7 +445,7 @@
             "open_issues": 6,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "companies",
               "earth-observation",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:22:53.814Z",
+    "last_updated": "2026-10-12T15:58:49.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
