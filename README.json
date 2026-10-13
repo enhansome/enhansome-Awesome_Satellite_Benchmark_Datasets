@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T10:32:26Z",
-                "open_issues": 692,
+                "open_issues": 693,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4599,
+                "stars": 4600,
                 "topics": [
                   "data",
                   "dataset",
@@ -155,7 +155,7 @@
                 "open_issues": 5,
                 "owner": "chaozhong2010",
                 "repo": "HRSID",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:58:49.447Z",
+    "last_updated": "2026-10-13T14:30:41.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
