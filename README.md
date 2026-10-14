@@ -190,7 +190,7 @@ You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2
 |                                                                                                                                 | Satellite Pose Estimation                                                      | 2020                | 15300            | 1920           | 35251200000  | Other        |                   | 4600        | <https://kelvins.esa.int/>                                                                                                              |
 |                                                                                                                                 | Kaggle Satellite Images of Hurricane Damage                                    | 2019                | 16000            | 128            | 262144000    | Class        |                   | 64          | <https://www.kaggle.com/kmader/satellite-images-of-hurricane-damage>                                                                    |
 |                                                                                                                                 | MidAir                                                                         | 2019                | 420000           | 1024           | 4.40402E+11  | Other        |                   | 1000000     | <https://midair.ulg.ac.be/>                                                                                                             |
-|                                                                                                                                 | QXS-SAROPT                                                                     | 2021                | 40000            | 256            | 2621440000   | Other        |                   | 2700        | <https://github.com/yaoxu008/QXS-SAROPT> ⭐ 157 \| 🐛 11 \| 📅 2021-07-30                                                                |
+|                                                                                                                                 | QXS-SAROPT                                                                     | 2021                | 40000            | 256            | 2621440000   | Other        |                   | 2700        | <https://github.com/yaoxu008/QXS-SAROPT> ⭐ 158 \| 🐛 11 \| 📅 2021-07-30                                                                |
 |                                                                                                                                 | oriEnted object detection using Aerial imaGery in real-worLd scEnarios (EAGLE) | 2020                | 8820             | 936            | 7727166720   | OD           |                   |             |                                                                                                                                         |
 |                                                                                                                                 | Parking Lot Database (PKLot)                                                   | 2015                | 12417            | 1280           | 11443507200  | OD           | 1                 | 4600        | <http://web.inf.ufpr.br/vri/databases/parking-lot-database/>                                                                            |
 |                                                                                                                                 | Car Parking Lot Dataset (CARPK)                                                | 2016                | 1448             | 1280           | 1334476800   | OD           | 1                 | 2000        | <https://lafi.github.io/LPN/>                                                                                                           |
@@ -237,7 +237,7 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 🛰️ List of [satellite image training datasets](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) with annotations for computer vision and deep learning
 
-:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,280 | 🐛 0 | 📅 2026-10-10.
+:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,282 | 🐛 0 | 📅 2026-10-10.
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,386 | 🐛 11 | 🌐 HTML | 📅 2026-05-13!
 
@@ -245,11 +245,11 @@ A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerk
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 114 | 🐛 3 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,324 | 🐛 15 | 📅 2026-10-07.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,325 | 🐛 15 | 📅 2026-10-07.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 892 | 🐛 6 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,356 | 🐛 3 | 📅 2026-09-09.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,358 | 🐛 3 | 📅 2026-09-09.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

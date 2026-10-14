@@ -308,7 +308,7 @@
                 "open_issues": 11,
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:30:41.429Z",
+    "last_updated": "2026-10-14T12:16:42.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
