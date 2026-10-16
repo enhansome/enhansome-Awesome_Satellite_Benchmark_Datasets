@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 585,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -38,7 +38,7 @@
                 "id": 148221325,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T10:32:26Z",
+                "last_commit": "2026-10-15T14:20:36Z",
                 "open_issues": 693,
                 "owner": "tensorflow",
                 "repo": "datasets",
@@ -134,7 +134,7 @@
                 "open_issues": 5,
                 "owner": "TianwenZhang0825",
                 "repo": "LS-SSDD-v1.0-OPEN",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -155,7 +155,7 @@
                 "open_issues": 5,
                 "owner": "chaozhong2010",
                 "repo": "HRSID",
-                "stars": 305,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -308,7 +308,7 @@
                 "open_issues": 11,
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 158,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -392,7 +392,7 @@
                 "open_issues": 5,
                 "owner": "Neooolee",
                 "repo": "WHUS2-CD",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:16:42.962Z",
+    "last_updated": "2026-10-16T11:49:39.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
