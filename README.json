@@ -42,7 +42,7 @@
                 "open_issues": 693,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4600,
+                "stars": 4602,
                 "topics": [
                   "data",
                   "dataset",
@@ -371,7 +371,7 @@
                 "open_issues": 9,
                 "owner": "R3ab",
                 "repo": "ttpla_dataset",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -445,7 +445,7 @@
             "open_issues": 6,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "companies",
               "earth-observation",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:36:27.926Z",
+    "last_updated": "2026-10-19T13:50:54.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
