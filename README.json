@@ -38,8 +38,8 @@
                 "id": 148221325,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T23:40:01Z",
-                "open_issues": 693,
+                "last_commit": "2026-10-23T16:17:09Z",
+                "open_issues": 694,
                 "owner": "tensorflow",
                 "repo": "datasets",
                 "stars": 4605,
@@ -421,7 +421,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-18T16:06:11Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "attibalazs",
             "repo": "awesome-remote-sensing",
             "stars": 115,
@@ -442,7 +442,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-09T02:14:59Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
             "stars": 894,
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:58:04.293Z",
+    "last_updated": "2026-10-24T11:29:05.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
