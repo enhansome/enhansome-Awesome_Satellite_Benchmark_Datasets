@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:29:05.208Z",
+    "last_updated": "2026-10-25T11:56:02.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
@@ -478,7 +478,7 @@
       "open_issues": 1,
       "owner": "Seyed-Ali-Ahmadi",
       "repo": "Awesome_Satellite_Benchmark_Datasets",
-      "stars": 364,
+      "stars": 363,
       "topics": [
         "awesome-list",
         "benchmark",
