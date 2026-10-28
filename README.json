@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-03-09T11:53:50Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -38,11 +38,11 @@
                 "id": 148221325,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T10:53:16Z",
-                "open_issues": 695,
+                "last_commit": "2026-10-28T09:42:23Z",
+                "open_issues": 694,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4605,
+                "stars": 4607,
                 "topics": [
                   "data",
                   "dataset",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:36:15.074Z",
+    "last_updated": "2026-10-28T13:26:49.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
@@ -478,7 +478,7 @@
       "open_issues": 1,
       "owner": "Seyed-Ali-Ahmadi",
       "repo": "Awesome_Satellite_Benchmark_Datasets",
-      "stars": 363,
+      "stars": 364,
       "topics": [
         "awesome-list",
         "benchmark",
