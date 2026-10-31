@@ -42,7 +42,7 @@
                 "open_issues": 694,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4608,
+                "stars": 4610,
                 "topics": [
                   "data",
                   "dataset",
@@ -442,7 +442,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-09T02:14:59Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
             "stars": 894,
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:25:17.175Z",
+    "last_updated": "2026-10-31T12:58:37.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
