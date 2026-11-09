@@ -38,11 +38,11 @@
                 "id": 148221325,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T21:49:20Z",
+                "last_commit": "2026-11-09T15:39:42Z",
                 "open_issues": 695,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4611,
+                "stars": 4610,
                 "topics": [
                   "data",
                   "dataset",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:47:01.274Z",
+    "last_updated": "2026-11-09T16:46:54.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
