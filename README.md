@@ -45,7 +45,7 @@ You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2
 | ![pools](https://user-images.githubusercontent.com/53389122/125169826-2b84e700-e1c1-11eb-9dbf-7c7478bd2cfc.jpeg)                | BH-Pools + BH-WaterTanks                                                       | 2020                | 350              | 3000           | 3150000000   | SemSeg       | 1                 | 1900        | <http://www.patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/>                                                                |
 | ![AiRound](https://user-images.githubusercontent.com/53389122/127604930-8aec75d0-7b63-466b-ba8a-a289cb920a30.jpg)               | AiRound                                                                        | 2020                | 11753            | 300            | 1057770000   | Class        | 11                | 33000       | <http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/>                                                                         |
 | ![CV-BrCT](https://user-images.githubusercontent.com/53389122/127604944-648db894-7535-445a-a3e7-0b5623b43ce7.gif)               | CV-BrCT (Cross-View Brazilian Construction Type)                               | 2020                | 24000            | 500            | 6000000000   | Class        | 9                 | 9200        | <http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/>                                                                         |
-| ![EuroSAT](https://user-images.githubusercontent.com/53389122/127604962-5755ea9d-d039-439e-934a-a9e3f264d157.jpg)               | EuroSAT                                                                        | 2018                | 27000            | 64             | 110592000    | Class        | 10                | 1920        | <https://github.com/phelber/EuroSAT#> ⭐ 593 \| 🐛 1 \| 📅 2023-03-09                                                                    |
+| ![EuroSAT](https://user-images.githubusercontent.com/53389122/127604962-5755ea9d-d039-439e-934a-a9e3f264d157.jpg)               | EuroSAT                                                                        | 2018                | 27000            | 64             | 110592000    | Class        | 10                | 1920        | <https://github.com/phelber/EuroSAT#> ⭐ 594 \| 🐛 1 \| 📅 2023-03-09                                                                    |
 | ![resisc45-3 0 0](https://user-images.githubusercontent.com/53389122/127605075-ad46c958-b924-4fe0-a89d-179b34a8de07.png)        | NWPU-RESISC45                                                                  | 2016                | 31500            | 256            | 2064384000   | Class        | 45                | 404.7       | <https://github.com/tensorflow/datasets/blob/master/docs/catalog/resisc45.md> ⭐ 4,611 \| 🐛 695 \| 🌐 Python \| 📅 2026-11-13           |
 |                                                                                                                                 | NWPU-VHR10                                                                     | 2014                | 800              | 1000           | 800000000    | OD           | 10                | 73          | <https://github.com/chaozhong2010/VHR-10_dataset_coco> ⭐ 142 \| 🐛 5 \| 🌐 Python \| 📅 2020-03-20                                      |
 |                                                                                                                                 | SSDD (RadarSat-2, TerraSAR-X, S-1)                                             | 2017                | 1160             | 500            | 290000000    | OD           | 1                 |             |                                                                                                                                         |
@@ -245,7 +245,7 @@ A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerk
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 115 | 🐛 4 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,374 | 🐛 27 | 📅 2026-11-08.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,374 | 🐛 28 | 📅 2026-11-08.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 894 | 🐛 8 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
