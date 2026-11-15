@@ -155,7 +155,7 @@
                 "open_issues": 5,
                 "owner": "chaozhong2010",
                 "repo": "HRSID",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -308,7 +308,7 @@
                 "open_issues": 11,
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -442,7 +442,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-09T02:14:59Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
             "stars": 894,
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:45:02.581Z",
+    "last_updated": "2026-11-15T14:15:00.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
@@ -478,7 +478,7 @@
       "open_issues": 1,
       "owner": "Seyed-Ali-Ahmadi",
       "repo": "Awesome_Satellite_Benchmark_Datasets",
-      "stars": 364,
+      "stars": 365,
       "topics": [
         "awesome-list",
         "benchmark",
