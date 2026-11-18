@@ -207,7 +207,7 @@ You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2
 |                                                                                                                                 | Sentinel-2 Multitemporal Cities Pairs                                          | 2020                | 1520             | 600            | 547200000    | CD           |                   | 10600       | <https://zenodo.org/record/4280482#.YIvbH44zbIV>                                                                                        |
 |                                                                                                                                 | Hi-UCD                                                                         | 2020                | 1293             | 1024           | 1355808768   | CD           |                   |             |                                                                                                                                         |
 |                                                                                                                                 | GTA-V SID                                                                      | 2020                | 121              | 500            | 30250000     | SemSeg       |                   | 100         | <https://github.com/jiupinjia/gtav-sattellite-imagery-dataset> ⭐ 44 \| 🐛 0 \| 📅 2020-02-17                                            |
-|                                                                                                                                 | transmission towers and power lines (TTPLA)                                    | 2020                | 1100             | 3840           | 9123840000   | SemSeg       |                   | 4200        | <https://github.com/r3ab/ttpla_dataset> ⭐ 206 \| 🐛 10 \| 🌐 Python \| 📅 2023-01-07                                                    |
+|                                                                                                                                 | transmission towers and power lines (TTPLA)                                    | 2020                | 1100             | 3840           | 9123840000   | SemSeg       |                   | 4200        | <https://github.com/r3ab/ttpla_dataset> ⭐ 205 \| 🐛 9 \| 🌐 Python \| 📅 2023-01-07                                                     |
 |                                                                                                                                 | AerialLanes18                                                                  | 2018                | 20               | 5616           | 420526080    | SemSeg       |                   |             |                                                                                                                                         |
 |                                                                                                                                 | WHU-Hi                                                                         | 2020                | 3                | 1217           | 1035251      | SemSeg       |                   | 817         | <http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm>                                                                                   |
 |                                                                                                                                 | MOR-UAV                                                                        | 2020                | 10948            | 1080           | 12769747200  | SemSeg       |                   |             | <https://visionintelligence.github.io/Datasets.html>                                                                                    |
@@ -237,7 +237,7 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 🛰️ List of [satellite image training datasets](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) with annotations for computer vision and deep learning
 
-:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,303 | 🐛 0 | 📅 2026-11-07.
+:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,306 | 🐛 0 | 📅 2026-11-07.
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,391 | 🐛 15 | 🌐 HTML | 📅 2026-05-13!
 
@@ -245,7 +245,7 @@ A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerk
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 115 | 🐛 4 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,376 | 🐛 35 | 📅 2026-11-08.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,379 | 🐛 37 | 📅 2026-11-08.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 896 | 🐛 9 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
