@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "phelber",
                 "repo": "EuroSAT",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:36.635Z",
+    "last_updated": "2026-11-20T15:42:57.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
@@ -478,7 +478,7 @@
       "open_issues": 1,
       "owner": "Seyed-Ali-Ahmadi",
       "repo": "Awesome_Satellite_Benchmark_Datasets",
-      "stars": 365,
+      "stars": 364,
       "topics": [
         "awesome-list",
         "benchmark",
