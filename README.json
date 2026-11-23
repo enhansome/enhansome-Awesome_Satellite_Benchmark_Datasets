@@ -113,7 +113,7 @@
                 "open_issues": 61,
                 "owner": "CAESAR-Radi",
                 "repo": "SAR-Ship-Dataset",
-                "stars": 455,
+                "stars": 456,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:49:35.763Z",
+    "last_updated": "2026-11-23T18:40:37.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",

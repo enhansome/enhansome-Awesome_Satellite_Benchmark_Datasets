@@ -50,7 +50,7 @@ You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2
 |                                                                                                                                 | NWPU-VHR10                                                                     | 2014                | 800              | 1000           | 800000000    | OD           | 10                | 73          | <https://github.com/chaozhong2010/VHR-10_dataset_coco> ⭐ 142 \| 🐛 5 \| 🌐 Python \| 📅 2020-03-20                                      |
 |                                                                                                                                 | SSDD (RadarSat-2, TerraSAR-X, S-1)                                             | 2017                | 1160             | 500            | 290000000    | OD           | 1                 |             |                                                                                                                                         |
 |                                                                                                                                 | Dataset for Ship Classification (DSCR)                                         | 2019                | 1951             |                |              | Class        |                   |             | <https://github.com/DYH666/DSCR> ⭐ 8 \| 🐛 0 \| 🌐 Python \| 📅 2019-08-13                                                              |
-|                                                                                                                                 | SAR Ship Detection (GF-2, S-1)                                                 | 2019                | 43819            | 256            | 2871721984   | OD           | 1                 | 407         | <https://github.com/CAESAR-Radi/SAR-Ship-Dataset> ⭐ 455 \| 🐛 61 \| 📅 2024-12-25                                                       |
+|                                                                                                                                 | SAR Ship Detection (GF-2, S-1)                                                 | 2019                | 43819            | 256            | 2871721984   | OD           | 1                 | 407         | <https://github.com/CAESAR-Radi/SAR-Ship-Dataset> ⭐ 456 \| 🐛 61 \| 📅 2024-12-25                                                       |
 |                                                                                                                                 | AIR-SARShip-2.0 (GF-3)                                                         | 2020                | 300              | 1000           | 300000000    | OD           | 1                 | 224         | <http://radars.ie.ac.cn/web/data/getData?dataType=SARDataset>                                                                           |
 | ![LSDD](https://user-images.githubusercontent.com/53389122/127605092-b581dc3b-b1e4-45cb-a560-6d5c2ea981d4.JPG)                  | LS-SSDD (Large Scale)                                                          | 2020                | 15               | 20000          | 5760000000   | OD           | 1                 | 7800        | <https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN> ⭐ 80 \| 🐛 5 \| 📅 2025-11-21                                                   |
 |                                                                                                                                 | HRSID (Ship Detection, S-1, TerraSAR-X)                                        | 2020                | 5604             | 800            | 3586560000   | OD           | 1                 | 581         | <https://github.com/chaozhong2010/HRSID> ⭐ 312 \| 🐛 5 \| 📅 2020-07-03                                                                 |
@@ -239,26 +239,26 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 :star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,312 | 🐛 0 | 📅 2026-11-21.
 
-A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,391 | 🐛 15 | 🌐 HTML | 📅 2026-05-13!
+A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,391 | 🐛 14 | 🌐 HTML | 📅 2026-05-13!
 
 A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 586 | 🐛 5 | 📅 2025-02-20 related to data from the Copernicus Sentinel Satellites.
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 115 | 🐛 4 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,383 | 🐛 10 | 📅 2026-11-18.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,388 | 🐛 14 | 📅 2026-11-18.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 897 | 🐛 10 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
-List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,377 | 🐛 2 | 📅 2026-09-09.
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,379 | 🐛 2 | 📅 2026-09-09.
 
 [Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
 
 The Top 112 [Super Resolution](https://awesomeopensource.com/projects/super-resolution) Open Source Projects.
 
-Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution) ⭐ 23 | 🐛 0 | 📅 2019-07-19, [2](https://github.com/idealo/image-super-resolution) ⚠️ Archived, [3](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,099 | 🐛 7 | 📅 2026-08-19, [4](https://github.com/ptkin/Awesome-Super-Resolution) ⭐ 386 | 🐛 2 | 🌐 HTML | 📅 2019-09-10, [5](https://github.com/MIVRC/Image-Super-Resolution-Guide) ⭐ 13 | 🐛 0 | 📅 2019-09-23
+Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution) ⭐ 23 | 🐛 0 | 📅 2019-07-19, [2](https://github.com/idealo/image-super-resolution) ⚠️ Archived, [3](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,100 | 🐛 7 | 📅 2026-08-19, [4](https://github.com/ptkin/Awesome-Super-Resolution) ⭐ 386 | 🐛 2 | 🌐 HTML | 📅 2019-09-10, [5](https://github.com/MIVRC/Image-Super-Resolution-Guide) ⭐ 13 | 🐛 0 | 📅 2019-09-23
 
 [Kaggle datasets](https://www.kaggle.com/datasets)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
