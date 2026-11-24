@@ -42,7 +42,7 @@
                 "open_issues": 695,
                 "owner": "tensorflow",
                 "repo": "datasets",
-                "stars": 4610,
+                "stars": 4611,
                 "topics": [
                   "data",
                   "dataset",
@@ -134,7 +134,7 @@
                 "open_issues": 5,
                 "owner": "TianwenZhang0825",
                 "repo": "LS-SSDD-v1.0-OPEN",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -308,7 +308,7 @@
                 "open_issues": 11,
                 "owner": "yaoxu008",
                 "repo": "QXS-SAROPT",
-                "stars": 159,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:51.620Z"
@@ -442,10 +442,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-09T02:14:59Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 897,
+            "stars": 898,
             "topics": [
               "companies",
               "earth-observation",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:40:37.045Z",
+    "last_updated": "2026-11-24T18:10:22.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
