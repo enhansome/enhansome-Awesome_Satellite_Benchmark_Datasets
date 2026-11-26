@@ -237,15 +237,15 @@ Here I acknowledge some useful lists and pages which can enrich your mind about 
 
 🛰️ List of [satellite image training datasets](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) with annotations for computer vision and deep learning
 
-:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,315 | 🐛 0 | 📅 2026-11-21.
+:star2: WOW! Take a look at Robin's awesome page. Almost everything for [deep learning in remote sensing](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,316 | 🐛 0 | 📅 2026-11-21.
 
-A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,392 | 🐛 14 | 🌐 HTML | 📅 2026-05-13!
+A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,392 | 🐛 16 | 🌐 HTML | 📅 2026-05-13!
 
 A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 586 | 🐛 5 | 📅 2025-02-20 related to data from the Copernicus Sentinel Satellites.
 
 [Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 115 | 🐛 4 | 📅 2026-01-18 is very exciting.
 
-Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,395 | 🐛 20 | 📅 2026-11-18.
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,397 | 🐛 25 | 📅 2026-11-18.
 
 [List](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 898 | 🐛 11 | 🌐 Python | 📅 2026-07-09 of 500+ geospatial companies & interactive map.
 
@@ -261,4 +261,4 @@ Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
