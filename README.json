@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T13:39:57Z",
-                "open_issues": 695,
+                "open_issues": 697,
                 "owner": "tensorflow",
                 "repo": "datasets",
                 "stars": 4611,
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:14:51.449Z",
+    "last_updated": "2026-11-27T16:55:42.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "Supplementary material for our paper \"THERE IS NO DATA LIKE MORE DATA\" is provided.",
